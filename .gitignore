@@ -1,0 +1,18 @@
+# Node
+frontend/node_modules/
+frontend/build/
+
+# Python
+backend/__pycache__/
+backend/.venv/
+backend/venv/
+*.pyc
+
+# Environment
+.env
+
+# VS Code
+.vscode/
+
+# Zip files
+*.zip
