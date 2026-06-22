@@ -6,7 +6,7 @@ export const SubmitButton = () => {
 
   const handleSubmit = async () => {
     try {
-      const response = await fetch('http://localhost:8000/pipelines/parse', {
+      const response = await fetch('http://vectorshift-frontend-assignment-nur2.onrender.com/pipelines/parse', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
