@@ -305,18 +305,10 @@ http://localhost:8000
 
 ---
 
-# Screenshots
-
 ## Pipeline Builder
 
 ```text
 Drag → Connect → Validate
-```
-
-Add screenshots here:
-
-```markdown
-![Pipeline Builder](./screenshots/pipeline-builder.png)
 ```
 
 ---
